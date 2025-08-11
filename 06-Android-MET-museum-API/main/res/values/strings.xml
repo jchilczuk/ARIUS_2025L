@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zad6_MetMuseumAPI</string>
+    <string name="main_title">Metropolitan Museum of Art</string>
+    <string name="artist">Vincent van Gogh</string>
+</resources>

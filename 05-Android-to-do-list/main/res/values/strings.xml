@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Zad5_Android_ListaZadan</string>
+    <string name="done">WYKONANE</string>
+    <string name="not_done">NIEWYKONANE</string>
+    <string name="task_list">Lista zadań</string>
+    <string name="todo">TODO</string>
+    <string name="status">Status:</string>
+    <string-array name="task_titles">
+        <item>Zrób zakupy</item>
+        <item>Spacer z psem</item>
+        <item>Ugotuj obiad</item>
+        <item>Odwiedź babcię</item>
+        <item>Zapłać rachunki</item>
+        <item>Umyj samochód</item>
+        <item>Napisz raport</item>
+        <item>Spotkanie online</item>
+        <item>Zarezerwuj wizytę</item>
+        <item>Wyrzuć śmieci</item>
+        <item>Trening</item>
+        <item>Zamów jedzenie</item>
+        <item>Posprzątaj pokój</item>
+        <item>Oddaj książki</item>
+        <item>Podlej kwiaty</item>
+        <item>Napisz e-mail</item>
+        <item>Napraw rower</item>
+        <item>Zrób zakupy online</item>
+        <item>Przygotuj prezentację</item>
+        <item>Zrób pranie</item>
+    </string-array>
+
+    <string-array name="task_descriptions">
+        <item>Kup mleko, chleb</item>
+        <item>Przejdź 2 km z psem</item>
+        <item>Zrób spaghetti na obiad</item>
+        <item>Zanieś zakupy i posiedź chwilę</item>
+        <item>Zapłać za prąd i internet</item>
+        <item>Dokładnie umyj i odkurz</item>
+        <item>Raport tygodniowy do szefa</item>
+        <item>Spotkanie z klientem o 15:00</item>
+        <item>Wizyta u dentysty w przyszłym tygodniu</item>
+        <item>Wyrzuć śmieci po obiedzie</item>
+        <item>Siłownia lub bieganie</item>
+        <item>Jedzenie na wieczorny film</item>
+        <item>Odkurz i umyj podłogę</item>
+        <item>Zwrot książek do biblioteki</item>
+        <item>Podlej wszystkie rośliny</item>
+        <item>Wyślij wiadomość do nauczyciela</item>
+        <item>Wymień dętkę i hamulce</item>
+        <item>Zamów nowy dysk SSD</item>
+        <item>Prezentacja na spotkanie zarządu</item>
+        <item>Oddziel białe i kolorowe pranie</item>
+    </string-array>
+
+    <string-array name="task_deadlines">
+        <item>2025-06-05 12:00</item>
+        <item>2025-05-10 18:00</item>
+        <item>2025-05-06 13:00</item>
+        <item>2025-06-07 16:00</item>
+        <item>2025-05-05 10:00</item>
+        <item>2025-05-08 11:30</item>
+        <item>2025-06-09 09:00</item>
+        <item>2025-05-10 15:00</item>
+        <item>2025-05-29 17:00</item>
+        <item>2025-06-05 14:00</item>
+        <item>2025-05-06 19:00</item>
+        <item>2025-05-07 20:00</item>
+        <item>2025-06-30 18:00</item>
+        <item>2025-05-08 12:00</item>
+        <item>2025-06-06 08:30</item>
+        <item>2025-06-06 13:30</item>
+        <item>2025-05-09 10:00</item>
+        <item>2025-05-10 21:00</item>
+        <item>2025-06-11 08:00</item>
+        <item>2025-06-05 09:00</item>
+    </string-array>
+</resources>

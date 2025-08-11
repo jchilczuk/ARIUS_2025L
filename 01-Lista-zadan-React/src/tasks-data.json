@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "Zakupy",
+        "description": "Kupić mleko, ser, jajka",
+        "deadline": "9:30 25.03.2025", 
+        "state": "Oczekujące",
+        "rating": 3
+
+    },
+    {
+        "id": "2",
+        "title": "Odpisać na maile",
+        "description": "",
+        "deadline": "19:30 28.03.2025",
+        "state": "Oczekujące",
+        "rating": 4
+    },
+    {
+        "id": "3",
+        "title": "Posprzątać mieszkanie",
+        "description": "Na przyjazd gości",
+        "deadline": "19:30 28.05.2025",
+        "state": "Wykonane",
+        "rating": 5
+    },
+    {
+        "id": "4",
+        "title": "Zrobić tort",
+        "description": "Tort czekoladowy na urodziny siostry",
+        "deadline": "19:30 30.04.2025",
+        "state": "Oczekujące",
+        "rating": 3
+    },
+    {
+        "id": "5",
+        "title": "Odebrać ubrania z pralni",
+        "description": "Pralnia na ulicy prostej, 9.00-18.00",
+        "deadline": "18:00 26.05.2025",
+        "state": "Oczekujące",
+        "rating": 10
+    },
+    {
+        "id": "6",
+        "title": "Zapisać się do dentysty",
+        "description": "Gabinet stomatologiczny DiagDent, tel. 455655788, 9.00-16.00",
+        "deadline": "16:00 26.05.2025",
+        "state": "Oczekujące",
+        "rating": 9
+    }
+    
+]
